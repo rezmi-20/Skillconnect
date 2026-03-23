@@ -1,0 +1,8 @@
+{
+  "name": "SkillLink",
+  "description": "A premium mobile platform connecting skilled workers with clients in Ethiopia.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
